@@ -8,6 +8,12 @@
 
 <br> <br>
 
+<h3>Education</h3>
+ 
+BSc in Computer Engineering <br>
+BSc in Applied Data Science <i>(final year)</i>
+<br> <br>
+
 <a href="https://www.github.com/llerandi"><img src="https://github-readme-stats-fast.vercel.app/api?username=llerandi&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a>
 
 <a href="https://www.github.com/llerandi"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=llerandi&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a>
