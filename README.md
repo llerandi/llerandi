@@ -6,7 +6,10 @@
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Catalan&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/B2+-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 
-<br> <br>
+<br>
+
+<h4><i>"Endless ideas, not enough hours."</i></h4>
+<br>
 
 <h3>Education</h3>
  
