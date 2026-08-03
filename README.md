@@ -39,6 +39,8 @@ BSc in Applied Data Science <i>(final year)</i>
 <h3>★</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,r,angular"></a>
 
+<img src="https://raw.githubusercontent.com/llerandi/llerandi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 ━━━━━━━━ ✧ ✧ ✧ ✦ ✧ ✧ ✧ ━━━━━━━━
 
 <img src="https://streak-stats.demolab.com?user=llerandi&theme=react&hide_border=true&background=0D1117">
